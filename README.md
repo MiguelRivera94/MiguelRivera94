@@ -22,7 +22,7 @@
 
 | #  | Repository                                         | Description                                                                                        | Field of Application     | Author                  |
 |---|----------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------|-------------------------|
-| 1 | [MiguelRivera94](https://github.com/MiguelRivera94/MiguelRivera94)                   | Hosts the web page for the first chapter of the book “Structural Engineering: Dynamics, Seismic Solution, and AI Integration”. | Structural Engineering   | MSc. Ing. Carlos Celi    |
+| 1 | [MiguelRivera94](https://github.com/MiguelRivera94/MiguelRivera94)                   | ######## | Structural Engineering   | Miguel Rivera    |
 
 # 👨‍💻 Languages and Tools
 
