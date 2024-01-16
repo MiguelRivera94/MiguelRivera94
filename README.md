@@ -9,3 +9,6 @@
 </p>
 
 # 👨‍💻 Languages and Tools
+
+![Python](https://img.shields.io/badge/python-blue)
+![Matlab](https://img.shields.io/badge/matlab-blue)
