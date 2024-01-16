@@ -1,5 +1,5 @@
 ![Miguel Banner](https://github.com/MiguelRivera94/MiguelRivera94/blob/main/Collage.jpg)
-<h1 align="center">Hi 👋, I'm</h1>
+<h1 align="center">Hi 👋, I'm Miguel Rivera</h1>
 # 👨🏻‍💻 About Me
 
 <p align="justify">
