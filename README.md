@@ -13,4 +13,11 @@
 [![Python](https://img.shields.io/badge/Python-blue)](https://img.shields.io/badge/Python-blue)
 [![Matlab](https://img.shields.io/badge/MATLAB-blue)](https://img.shields.io/badge/MATLAB-blue)
 
+## Connect with Me
 
+<p align="center">
+  <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydeepyadav) -->
+  <a href="https://MiguelRivera94"><img alt="Github" title="Miguel Rivera Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:migueledu550@gmail.com"><img alt="Gmail" title="Miguel Rivera Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:meriverabo@puce.edu.ec"><img alt="Outlook" title="Miguel Rivera Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+ </p>
