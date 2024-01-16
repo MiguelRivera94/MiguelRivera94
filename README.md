@@ -10,7 +10,7 @@
 
 # 👨‍💻 Languages and Tools
 
-![Python](https://img.shields.io/badge/python-blue)
+[![Python](https://img.shields.io/badge/Python-blue)](https://img.shields.io/badge/Python-blue)
 [![Matlab](https://img.shields.io/badge/MATLAB-blue)](https://img.shields.io/badge/MATLAB-blue)
 
 
