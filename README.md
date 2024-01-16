@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Miguel Banner] (https://github.com/MiguelRivera94/MiguelRivera94/blob/main/Collage.jpg
+![Miguel Banner](https://github.com/MiguelRivera94/MiguelRivera94/blob/main/Collage.jpg)
 <!--
 **MiguelRivera94/MiguelRivera94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
