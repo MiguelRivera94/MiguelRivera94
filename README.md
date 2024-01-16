@@ -7,12 +7,7 @@
 <p align="justify">
   I am currently pursuing a postgraduate degree at the Pontifical Catholic University of Ecuador, focusing on structural engineering with a specialization in Seismic-Resistant Structures. As a newcomer to GitHub, I am excited to share and collaborate on projects that reflect my dedication to structural engineering. I am eager to learn and contribute to the community, always open to feedback and the exchange of ideas. I hope you enjoy exploring my work as much as I enjoy creating it.
 </p>
-
-# 👨‍💻 Languages and Tools
-
-[![Python](https://img.shields.io/badge/Python-blue)](https://img.shields.io/badge/Python-blue)
-[![Matlab](https://img.shields.io/badge/MATLAB-blue)](https://img.shields.io/badge/MATLAB-blue)
-
+ 
 # 🤝🏻 Connect with Me
 
 <p align="center">
@@ -21,3 +16,21 @@
   <a href="mailto:migueledu550@gmail.com"><img alt="Gmail" title="Miguel Rivera Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="mailto:meriverabo@puce.edu.ec"><img alt="Outlook" title="Miguel Rivera Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
  </p>
+
+
+ ## List of Main Repositories
+
+| #  | Repository                                         | Description                                                                                        | Field of Application     | Author                  |
+|---|----------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------|-------------------------|
+| 1 | [MiguelRivera94](https://github.com/MiguelRivera94/MiguelRivera94)                   | Hosts the web page for the first chapter of the book “Structural Engineering: Dynamics, Seismic Solution, and AI Integration”. | Structural Engineering   | MSc. Ing. Carlos Celi    |
+
+# 👨‍💻 Languages and Tools
+
+<p align="center">
+  <a href="https://img.shields.io/badge/Python-blue">
+    <img src="https://img.shields.io/badge/Python-blue" alt="Python">
+  </a>
+  <a href="https://img.shields.io/badge/MATLAB-blue">
+    <img src="https://img.shields.io/badge/MATLAB-blue" alt="MATLAB">
+  </a>
+</p>
