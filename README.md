@@ -22,7 +22,7 @@
 
 | #  | Repository                                         | Description                                                                                        | Field of Application     | Author                  |
 |---|----------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------|-------------------------|
-| 1 | [MiguelRivera94](https://github.com/MiguelRivera94/MiguelRivera94)                   | ######## | Structural Engineering   | Miguel Rivera    |
+| 1 | [Dynamic Seism](https://github.com/MiguelRivera94/dynamic_seism)                   | ######## | Structural Engineering   | Miguel Rivera    |
 
 # 👨‍💻 Languages and Tools
 
