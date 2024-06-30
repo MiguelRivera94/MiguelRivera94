@@ -22,7 +22,7 @@
 
 | #  | Repository                                         | Description                                                                                        | Field of Application     | Author                  |
 |---|----------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------|-------------------------|
-| 1 | [Dynamic Seism](https://github.com/MiguelRivera94/dynamic_seism)                   | ######## | Structural Engineering   | Miguel Rivera    |
+| 1 | [Dynamic Seism](https://github.com/MiguelRivera94/dynamic_seism)                   | SOFTWARE INTERACTIVO PARA EL CÁLCULO DE MAGNIFICACIÓN DINÁMICA DE ESTRUCTURAS DE UN GRADO DE LIBERTAD, EN EL RANGO LINEAL Y NO LINEAL, EN BASE AL CONTENIDO FRECUENCIAL PREDOMINANTE DE REGISTROS SÍSMICOS | Structural Engineering   | Miguel Rivera    |
 
 # 👨‍💻 Languages and Tools
 
