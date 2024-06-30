@@ -20,9 +20,11 @@
 
  # 📜 List of Main Repositories
 
-| #  | Repository                                         | Description                                                                                        | Field of Application     | Author                  |
-|---|----------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------|-------------------------|
-| 1 | [Dynamic Seism](https://github.com/MiguelRivera94/dynamic_seism)                   | SOFTWARE INTERACTIVO PARA EL CÁLCULO DE MAGNIFICACIÓN DINÁMICA DE ESTRUCTURAS DE UN GRADO DE LIBERTAD, EN EL RANGO LINEAL Y NO LINEAL, EN BASE AL CONTENIDO FRECUENCIAL PREDOMINANTE DE REGISTROS SÍSMICOS | Structural Engineering   | Miguel Rivera    |
+| #  | Repository                                                            | Description                                                                                                                               | Field of Application   | Author                      | Tutor               |
+|----|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------------|---------------------|
+| 1  | [Dynamic Seism](https://github.com/MiguelRivera94/dynamic_seism)      | Interactive Software for Dynamic Magnification Calculation of Single Degree of Freedom Structures in the Linear and Nonlinear Range Based on the Predominant Frequency Content of Seismic Records | Structural Engineering | Msc (c): Miguel Rivera      | Msc. Carlos Celi    |
+|    |                                                                       |                                                                                                                                           |                        | Msc (c): Daniel Escorza     |                     |
+
 
 # 👨‍💻 Languages and Tools
 
