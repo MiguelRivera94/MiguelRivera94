@@ -20,7 +20,7 @@
 
  # 📜 List of Main Repositories
 
-| #  | Repository                                                            | Description                                                                                                                               | Field of Application   | Author                                | Tutor               |
+| #  | Repository                                                            | Description                                                                                                                               | Field of Application   | Authors                                | Tutor               |
 |----|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------------------------------|---------------------|
 | 1  | [Dynamic Seism](https://github.com/MiguelRivera94/dynamic_seism)      | Interactive Software for Dynamic Magnification Calculation of Single Degree of Freedom Structures in the Linear and Nonlinear Range Based on the Predominant Frequency Content of Seismic Records | Structural Engineering | Msc (c): Eng. Miguel Rivera<br>Msc (c): Eng. Daniel Escorza | Msc. Eng. Carlos Celi    |
 
