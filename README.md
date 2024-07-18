@@ -22,7 +22,7 @@
 
 | #  | Repositorio                                                            | Descripción                                                                                                                               | Campo de Aplicación     | Autores                                             | Tutor               |
 | :-: | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------- | ------------------- |
-| 1  | [Dynamic Seism](https://github.com/MiguelRivera94/dynamic_seism)      | Software interactivo para el cálculo de la Amplificación Dinámica de Estructuras de Un Grado de Libertad en el Rango Lineal y No Lineal Basado en el Contenido de Frecuencia Predominante de Registros Sísmicos | Ingeniería Estructural | Msc (c) Ing. Miguel Rivera<br>Msc (c) Ing. Daniel Escorza | [Normando1945.github.io](https://github.com/Normando1945/Normando1945.github.io) |
+| 1  | [Dynamic Seism](https://github.com/MiguelRivera94/dynamic_seism)      | Software interactivo para el cálculo de la Amplificación Dinámica de Estructuras de Un Grado de Libertad en el Rango Lineal y No Lineal Basado en el Contenido de Frecuencia Predominante de Registros Sísmicos | Ingeniería Estructural | Msc (c) Ing. Miguel Rivera<br>Msc (c) Ing. Daniel Escorza | [Msc. Eng. Carlos Celi](https://www.puce.edu.ec/) |
 
 # 👨‍💻 Languages and Tools
 
