@@ -22,7 +22,7 @@
 
 | #  | Repositorio                                                            | Descripción                                                                                                                               | Campo de Aplicación     | Autores                                             | Tutor               |
 | :-: | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------- | ------------------- |
-| 1  | [Dynamic Seism](https://github.com/MiguelRivera94/dynamic_seism)      | Interactive software for calculating the dynamic magnification of single-degree-of-freedom structures in the linear and nonlinear range based on the predominant frequency content of seismic records | Ingeniería Estructural | Msc (c) Ing. Miguel Rivera<br>Msc (c) Ing. Daniel Escorza | [Msc. Eng. Carlos Celi](https://github.com/Normando1945) |
+| 1  | [Dynamic Seism](https://github.com/MiguelRivera94/dynamic_seism)      | Interactive software for calculating the dynamic magnification of single degree of freedom systems in the elastic and inelastic range based on the predominant frequency content of seismic records | Ingeniería Estructural | Msc (c) Ing. Miguel Rivera<br>Msc (c) Ing. Daniel Escorza | [Msc. Eng. Carlos Celi](https://github.com/Normando1945) |
 
 # 👨‍💻 Languages and Tools
 
