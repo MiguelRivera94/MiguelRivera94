@@ -18,11 +18,12 @@
  </p>
 
 
- # 📜 List of Main Repositories
+# 📜 List of Main Repositories
 
-| #  | Repositorio                                                            | Descripción                                                                                                                               | Campo de Aplicación     | Autores                                             | Tutor               |
+| #  | Repository                                                             | Description                                                                                                                               | Field of Application    | Authors                                              | Tutor               |
 | :-: | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------- | ------------------- |
-| 1  | [Dynamic Seism](https://github.com/MiguelRivera94/dynamic_seism)      | Interactive software for calculating the dynamic magnification of single degree of freedom systems in the elastic and inelastic range based on the predominant frequency content of seismic records | Ingeniería Estructural | Msc (c) Ing. Miguel Rivera<br>Msc (c) Ing. Daniel Escorza | [Msc. Eng. Carlos Celi](https://github.com/Normando1945) |
+| 1  | [Dynamic Seism](https://github.com/MiguelRivera94/dynamic_seism)      | Interactive software for calculating the dynamic magnification of single degree of freedom systems in the elastic and inelastic range based on the predominant frequency content of seismic records | Structural Engineering | Msc (c) Eng. Miguel Rivera<br>Msc (c) Eng. Daniel Escorza | [Msc. Eng. Carlos Celi](https://github.com/Normando1945) |
+
 
 # 👨‍💻 Languages and Tools
 
